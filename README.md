@@ -12,7 +12,7 @@
 - **Desarrollo Web**
 	- HTML, CSS y Javascript
 	- Responsive Design
-	- React JS :electron:
+	- ReactJS :electron:
   - React Router
   - Redux
   - NodeJS
