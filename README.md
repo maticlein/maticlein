@@ -7,10 +7,11 @@
 - **Lenguajes de Programación**
 	- C / C++
 	- Python
+	- JavaScript
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Desarrollo Web**
-	- HTML, CSS y JavaScript
+	- HTML y CSS
 	- Responsive Design
 	- ReactJS :electron:
   - React Router
@@ -21,7 +22,8 @@
 - **Otros**
   - IBM Cloud
   - Google Cloud Platform
-  - Control de versiones
+  - Netlify - Vercel - Heroku
+  - Git
   - Terminal
 
 
