@@ -41,7 +41,7 @@
  <a href="https://twitter.com/maticlein" target="_blank">
   <img align="center" alt="Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
- <a href="mailto:matthias.clein@ufromail.cl" target="_blank">
+ <a href="mailto:matthias.clein@ufrontera.cl" target="_blank">
   <img align="center" alt="Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
  </a>
   <br/>
