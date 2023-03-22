@@ -1,7 +1,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
 
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" height="29px" width="29px"> Hola Mundo!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" height="24px" width="24px">
-<em>Soy Matthias Clein, Ingeniero Civil Electrónico. Actualmente me desempeño como Facilitador de Innovación Curricular y Docente en la Facultad de Ingeniería y Ciencias de <a href="https://www.ufro.cl"><b>Universidad de La Frontera</b></a>, Temuco, Chile. Cuento con más de 5 años de experiencia en el área de programación, trabajando con diversos microcontroladores y participando de la producción de software orientado al procesamiento de datos e Inteligencia Artificial.</em> 
+<em>Soy Matthias Clein, Ingeniero Civil Electrónico. Actualmente me desempeño como Profesional de Innovación Curricular y Docente en la Facultad de Ingeniería y Ciencias de <a href="https://www.ufro.cl"><b>Universidad de La Frontera</b></a>, Temuco, Chile. Cuento con más de 5 años de experiencia en el área de programación, trabajando con diversos microcontroladores y participando de la producción de software orientado al procesamiento de datos e Inteligencia Artificial.</em> 
  <br/>
 ## Hablemos de :computer: 
 - **Lenguajes de Programación**
