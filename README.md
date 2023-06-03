@@ -11,11 +11,11 @@
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Desarrollo Web**
+	- Streamlit
 	- HTML & CSS
 	- Responsive Design
 	- ReactJS :electron:
   - React Router
-  - Redux
   - Node.js & Express.js
   - Flask
   - WordPress
